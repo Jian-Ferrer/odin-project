@@ -1,0 +1,10 @@
+[
+  {
+    "label": "Odin Run",
+    "command": "odin",
+    "args": ["run", "src"],
+    "use_new_terminal": false,
+    "allow_concurrent_runs": false,
+    "reveal": "always"
+  }
+]
